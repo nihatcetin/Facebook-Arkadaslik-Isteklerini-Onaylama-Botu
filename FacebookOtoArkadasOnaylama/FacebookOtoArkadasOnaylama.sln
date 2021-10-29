@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookOtoArkadasOnaylama", "FacebookOtoArkadasOnaylama\FacebookOtoArkadasOnaylama.csproj", "{90B631B1-2E4F-492F-8F07-A5E6F819822B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B631B1-2E4F-492F-8F07-A5E6F819822B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B631B1-2E4F-492F-8F07-A5E6F819822B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B631B1-2E4F-492F-8F07-A5E6F819822B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B631B1-2E4F-492F-8F07-A5E6F819822B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52C87F3F-190F-4A06-97EF-1C6575AA5D72}
+	EndGlobalSection
+EndGlobal
